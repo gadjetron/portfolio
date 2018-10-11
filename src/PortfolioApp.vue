@@ -1,16 +1,19 @@
 <template>
     <div id="portfolio-app">
         <Navbar></Navbar>
+        <Portfolio></Portfolio>
     </div>
 </template>
 
 <script>
     import Navbar from "./components/navbar/Navbar.vue";
+    import Portfolio from "./components/portfolio/Portfolio.vue";
 
     export default {
         name: 'PortfolioApp',
         components: {
-            Navbar
+            Navbar,
+            Portfolio
         }
     };
 
