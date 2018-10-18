@@ -1,5 +1,5 @@
 <template>
-    <div class="team-block">
+    <div class="team-block" id="team">
         <h1 class="team-block__header">The Team</h1>
         <TeamMembers></TeamMembers>
     </div>

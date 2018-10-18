@@ -1,5 +1,5 @@
 <template>
-    <div class="contact-form-wrapper">
+    <div class="contact-form-wrapper" id="contact_us">
         <h1 class="contact-form-wrapper__header">Contact Us</h1>
 
         <form action="/contact_us" method="post" class="contact-form"

@@ -18,7 +18,7 @@
                 links: [
                     {
                         text: 'Home',
-                        path: '/home'
+                        path: '/'
                     },
                     {
                         text: 'Service',
@@ -30,7 +30,7 @@
                     },
                     {
                         text: 'Team',
-                        path: '/team'
+                        path: '#team'
                     },
                     {
                         text: 'Blog',
@@ -38,7 +38,7 @@
                     },
                     {
                         text: 'Contact',
-                        path: '/contact'
+                        path: '#contact_us'
                     },
                 ],
             }
