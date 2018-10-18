@@ -1,10 +1,6 @@
 <template>
     <div class="nav-links">
-        <NavLink :key="link.text" v-for="link in links">
-            <a slot="url" class="nav-link-block__nav-link" :href="link.path">
-                {{ link.text }}
-            </a>
-        </NavLink>
+        <NavLink :url="link" :key="link.text" v-for="link in links"></NavLink>
     </div>
 </template>
 

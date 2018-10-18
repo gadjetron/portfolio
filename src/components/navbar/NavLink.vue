@@ -1,6 +1,8 @@
 <template>
     <div class="nav-link-block">
-        <slot name="url"></slot>
+        <a class="nav-link-block__nav-link" :href="this.$props.url.path">
+            {{ this.$props.url.text }}
+        </a>
         <div class="nav-link-block__link-underliner"></div>
     </div>
 </template>
@@ -8,6 +10,7 @@
 <script>
     export default {
         name: 'NavLink',
+        props: ['url']
     }
 </script>
 
