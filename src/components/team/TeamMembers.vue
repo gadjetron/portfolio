@@ -1,6 +1,7 @@
 <template>
     <div class="team-members">
-        <TeamMember :team_member_info="team_member" :key="team_member.full_name"
+        <TeamMember :team_member_info="team_member"
+                    :key="team_member.full_name"
                     v-for="team_member in team_members">
         </TeamMember>
     </div>

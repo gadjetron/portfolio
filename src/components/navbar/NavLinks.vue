@@ -9,7 +9,7 @@
 
     export default {
         name: 'NavLinks',
-        data: function () {
+        data () {
             return {
                 links: [
                     {
@@ -61,4 +61,3 @@
         }
     }
 </style>
-

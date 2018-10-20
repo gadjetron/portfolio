@@ -1,7 +1,9 @@
 <template>
     <div class="navbar-brand">
         <a href="/" class="navbar-brand__link">
-            <img class="navbar-brand__author-brand" src="../../assets/author_brand.png" alt="Author Brand">
+            <img class="navbar-brand__author-brand"
+                 src="../../assets/author_brand.png"
+                 alt="Author Brand">
         </a>
     </div>
 </template>
@@ -30,5 +32,3 @@
         }
     }
 </style>
-
-

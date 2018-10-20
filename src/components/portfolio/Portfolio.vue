@@ -4,7 +4,9 @@
 
         <PortfolioItems></PortfolioItems>
 
-        <a class="portfolio-block__all-works-button" href="/portfolio">See all works</a>
+        <a href="/portfolio" class="portfolio-block__all-works-button">
+            See all works
+        </a>
     </div>
 </template>
 
@@ -72,5 +74,3 @@
         }
     }
 </style>
-
-

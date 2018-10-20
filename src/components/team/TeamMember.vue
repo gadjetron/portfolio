@@ -2,7 +2,8 @@
     <div class="team-member">
         <div class="team-member__member-photo-block">
             <img class="member-photo-block__member-photo"
-                 src="../../assets/team_member_photo_placeholder.png" alt="Member photo">
+                 src="../../assets/team_member_photo_placeholder.png"
+                 alt="Member photo">
         </div>
         <div class="team-member__member-short-info">
             <h2 class="member-short-info__full-name">
@@ -79,4 +80,3 @@
         justify-content: space-evenly;
     }
 </style>
-

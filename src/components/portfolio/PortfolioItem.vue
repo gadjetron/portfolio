@@ -1,6 +1,8 @@
 <template>
     <div class="portfolio-item">
-        <img src="../../assets/portfolio_item_placeholder.jpg" alt="" class="portfolio-item__image">
+        <img src="../../assets/portfolio_item_placeholder.jpg"
+             alt="Portfolio item"
+             class="portfolio-item__image">
     </div>
 </template>
 
@@ -44,4 +46,3 @@
         }
     }
 </style>
-
