@@ -21,7 +21,6 @@
     .navbar{
         display: flex;
         align-items: stretch;
-        box-sizing: border-box;
         padding: 0.5em;
 
         border-radius: 3px;

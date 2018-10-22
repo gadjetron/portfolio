@@ -26,7 +26,6 @@
         display: flex;
         flex-direction: column;
         align-items: center;
-        box-sizing: border-box;
         padding: 1em;
 
         border: 2px solid brown;
@@ -40,8 +39,6 @@
         color: brown;
     }
     .portfolio-block__all-works-button{
-        display: inline-block;
-        box-sizing: border-box;
         padding: 0.75em;
 
         border: 1px solid #5e6772;

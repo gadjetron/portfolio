@@ -24,7 +24,10 @@
     };
 </script>
 
-<style scoped>
+<style>
+    *{
+        box-sizing: border-box;
+    }
     #portfolio-app{
         display: grid;
         grid-template-rows: minmax(100px, auto) repeat(3, minmax(320px, auto));

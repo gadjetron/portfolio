@@ -118,7 +118,6 @@
     .contact-form__send-button{
         grid-area: send_button;
         justify-self: center;
-        box-sizing: border-box;
         padding: 0.5em 0.75em;
         margin-top: 0.375em;
 

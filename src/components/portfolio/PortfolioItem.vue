@@ -16,7 +16,6 @@
     .portfolio-item{
         display: flex;
         align-items: stretch;
-        box-sizing: border-box;
 
         background-color: #4d4d4d10;
         border: 5px solid white;

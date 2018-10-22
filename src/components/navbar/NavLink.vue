@@ -19,7 +19,6 @@
         display: flex;
         flex: 1;
         flex-direction: column;
-        box-sizing: border-box;
     }
     .nav-link-block__nav-link{
         display: inline-flex;
