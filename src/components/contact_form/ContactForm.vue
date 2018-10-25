@@ -29,13 +29,13 @@
         </h2>
         <div class="social-links">
             <a href="">
-                <logo-facebook-icon w="3.5em" h="3.5em" style="fill: #566ca3;"/>
+                <logo-facebook-icon w="3.5em" h="3.5em" style="color: #566ca3;"/>
             </a>
             <a href="">
-                <logo-twitter-icon w="3.5em" h="3.5em" style="fill: #7ccbf2;"/>
+                <logo-twitter-icon w="3.5em" h="3.5em" style="color: #7ccbf2;"/>
             </a>
             <a href="">
-                <logo-googleplus-icon w="3.5em" h="3.5em" style="fill: #d36555;"/>
+                <logo-googleplus-icon w="3.5em" h="3.5em" style="color: #d36555;"/>
             </a>
         </div>
     </div>
